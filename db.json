@@ -8,7 +8,24 @@
         				"name": "Homepage"
 				},
 				"published_content": {
-					
+					"page": 1,
+					"entries": [
+						"id_str": "",
+						"source": "",
+						"name": "",
+						"username": null,
+						"bio": null,
+						"avatar_url": "",
+						"title": null,
+						"message": "",
+						"small_image_url": "",
+						"large_image_url": null,
+						"video_url": null,
+						"content_url": "",
+						"permalink_url" "2019-11-14T02:26:22.000Z",
+						"published_at": "",
+						"created_at": "2019-11-14T02:38:36.000Z"
+					]
 				}
 			}
 		}
